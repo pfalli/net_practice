@@ -4,7 +4,7 @@ This project is a network practice exercise from 42 School. The goal is to compl
 
 I advice you to go trhough all the exlanation before to start the practice.
 
-here a link where to practice on your browser: https://ricardoreves.github.io/42-net-practice/
+here a link where to practice on your browser: [https://pfalli.github.io/net_practice/]
 
 ## Project Overview
 
